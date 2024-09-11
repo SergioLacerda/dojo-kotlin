@@ -1,4 +1,4 @@
-package com.dojo.demo.jokenpo.enums
+package com.dojo.demo.jokenpo
 
 enum class JokenpoEnum (val type: String) {
     PAPER("Papel"),

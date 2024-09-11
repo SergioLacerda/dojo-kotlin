@@ -1,10 +1,11 @@
 package com.dojo.demo
 
 import com.dojo.demo.jokenpo.Jokenpo
-import com.dojo.demo.jokenpo.enums.JokenpoEnum.*
+import com.dojo.demo.jokenpo.JokenpoEnum.*
 import org.junit.jupiter.api.Assertions.assertFalse
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test
+
 class JokenpoTest {
 
     @Test

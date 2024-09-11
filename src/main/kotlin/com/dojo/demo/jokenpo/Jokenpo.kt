@@ -1,7 +1,5 @@
 package com.dojo.demo.jokenpo
 
-import com.dojo.demo.jokenpo.enums.JokenpoEnum
-
 class Jokenpo {
     companion object {
         fun play(playerOne: JokenpoEnum, playerTwo: JokenpoEnum): Boolean {
